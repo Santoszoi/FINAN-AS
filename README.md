@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# FINAN-AS — React Finance UI Exercise
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An archived learning exercise created while studying **React 18**, component-based interfaces and front-end testing tooling.
 
-## Available Scripts
+> **Status:** historical learning repository. The current branch contains the original project configuration, but the application source is incomplete. It is kept publicly to document learning progression rather than presented as production-ready work.
 
-In the project directory, you can run:
+## Original stack
 
-### `yarn start`
+- React 18
+- Create React App
+- styled-components
+- React Icons
+- Testing Library
+- Web Vitals
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Why this repository remains public
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This repository is part of my earlier React learning history. For a current, complete application demonstrating my engineering work, see **[DeskFlow](https://github.com/Santoszoi/deskflow-help-desk)**.
 
-### `yarn test`
+For a smaller completed JavaScript exercise with automated browser tests, see **[Task List](https://github.com/Santoszoi/listadetarefa2)**.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Current portfolio
 
-### `yarn build`
+- [DeskFlow — Full-Stack Help Desk](https://github.com/Santoszoi/deskflow-help-desk)
+- [GitHub profile](https://github.com/Santoszoi)
+- [Portfolio](https://marcossolutions.com.br)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Marcos Neves**
